@@ -1,0 +1,29 @@
+.job {
+    width: 250px;
+    height: 250pc;
+    padding: 25px;
+    border-width: 0px 0px 0px 0px;
+    border-color: rgba(188,188,188,1);
+    border-radius: 15px;
+    border-style: solid;
+    box-shadow: 0px 5px 35px 0px rgba(50,50,93,0.17);
+    border-style: solid;
+    box-shadow: 0px 5px 35px 0px rgba(50,50,93,0.17);
+}
+
+.title{
+    background-color: lightcoral;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+
+.team{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin: 10px 0;
+    padding: 20px;
+}
